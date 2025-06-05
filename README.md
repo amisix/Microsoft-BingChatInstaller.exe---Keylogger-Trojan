@@ -1,1 +1,1 @@
-# MaliciousFiles
+Microsoft BingChatInstaller.exe
